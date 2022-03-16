@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\hotelapp\\hotelapp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\AulaCSharp\\hotelapp\\hotelapp.csproj",
       "projectName": "hotelapp",
-      "projectPath": "C:\\Users\\User\\hotelapp\\hotelapp.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\AulaCSharp\\hotelapp\\hotelapp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\hotelapp\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\AulaCSharp\\hotelapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
